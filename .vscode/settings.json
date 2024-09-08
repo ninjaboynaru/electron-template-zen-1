@@ -1,0 +1,10 @@
+{
+	"editor.wordWrap": "on",
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.trimAutoWhitespace": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"cSpell.words": []
+}
